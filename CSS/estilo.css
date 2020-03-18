@@ -1,0 +1,17 @@
+table{
+    border : 1px black solid;
+}
+#end{
+    display: flex;
+}
+#complemento{
+    margin-left: 1%;
+}
+.Contato{
+    display : flex;
+    margin-right : 10%;
+
+}
+.Contato.mail{
+    margin-right : 10%;
+} 
